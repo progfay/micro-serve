@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "micro": "^9.3.2",
     "next": "^6.0.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
