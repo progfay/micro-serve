@@ -1,5 +1,6 @@
 {
   "name": "create-next-example-app",
+  "main": "server.js",
   "scripts": {
     "dev": "micro-dev",
     "build": "next build",
