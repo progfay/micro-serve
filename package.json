@@ -1,9 +1,9 @@
 {
   "name": "create-next-example-app",
   "scripts": {
-    "dev": "next",
+    "dev": "micro-dev",
     "build": "next build",
-    "start": "next start"
+    "start": "micro"
   },
   "dependencies": {
     "micro": "^9.3.2",
