@@ -10,5 +10,8 @@
     "next": "^6.0.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
   }
 }
