@@ -1,19 +1,18 @@
 {
-  "name": "create-next-example-app",
-  "main": "server.js",
-  "scripts": {
-    "dev": "micro-dev",
-    "build": "next build",
-    "start": "micro"
-  },
-  "dependencies": {
-    "micro": "^9.3.2",
-    "next": "^6.0.3",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "serve-handler": "^3.2.2"
-  },
-  "devDependencies": {
-    "micro-dev": "^3.0.0"
-  }
+    "name": "create-next-example-app",
+    "main": "server.js",
+    "scripts": {
+        "dev": "micro-dev",
+        "start": "micro"
+    },
+    "dependencies": {
+        "micro": "^9.3.2",
+        "next": "^6.0.3",
+        "react": "^16.4.1",
+        "react-dom": "^16.4.1",
+        "serve-handler": "^3.2.2"
+    },
+    "devDependencies": {
+        "micro-dev": "^3.0.0"
+    }
 }
