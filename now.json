@@ -1,0 +1,28 @@
+{
+    "static": {
+        "public": "",
+        "cleanUrls": true,
+        "rewrites": [{
+            "source": "",
+            "destination": ""
+        }],
+        "redirects": [{
+            "source": "",
+            "destination": ""
+        }],
+        "headers": {
+            "source": "",
+            "headers": [{
+                "key": "Cache-Control",
+                "value": ""
+            }]
+        },
+        "directoryListing": [""],
+        "unlisted": [
+            ".vscode",
+            ".git"
+        ],
+        "trailingSlash": false,
+        "renderSingle": false
+    }
+}
